@@ -1,0 +1,23 @@
+{
+  "name": "tastedive",
+  "version": "1.0.0",
+  "description": "Taste dive testing using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Voja026/API-Cypress-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Voja026/API-Cypress-3/issues"
+  },
+  "homepage": "https://github.com/Voja026/API-Cypress-3#readme",
+  "dependencies": {
+    "cypress": "^7.2.0"
+  }
+}
